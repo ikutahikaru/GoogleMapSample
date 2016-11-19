@@ -1,0 +1,6 @@
+framework module Pods_lonly_groume {
+  umbrella header "Pods-lonly_groume-umbrella.h"
+
+  export *
+  module * { export * }
+}
